@@ -11,6 +11,7 @@
 • The month between 1 and 12.  
 • The day will be generated according to the month but cannot exceed 1 and 31.  
 > For example, if the month is generated to be 1 (January), the maximum day value can be 31, whereas, for April (month=4), the maximum day value will be 30.  
+
 • The year will be between 1500 and 2020.  
 • No need to worry about Leap years -- all the days for February will be between 1 and 28 regardless of the year.  
 
